@@ -1,0 +1,35 @@
+{
+    "skipToContent": "Hoppa till innehåll",
+    "frontPage": {
+        "title": "Framsida",
+        "mainText": "Välkommen till sidan för talkonvertering"
+    },
+    "numberConverter" : {
+        "title": "Talkonvertering",
+        "inputTitle": "Ge ett tal du vill konvertera",
+        "mainText": "Ange konversionsriktning:",
+        "romanNumber": "Romerskt tal, t.ex.. I, XX, DCCX...",
+        "integerNumber": "Heltal, t.ex. 1, 20, 710...",
+        "submit": "Skicka",
+        "numberError": "Fältet borde endast ha siffor",
+        "romanError": "Endast tecknend I,V,X,L,C,D och M är tillåtna",
+        "romanToNumber": "Romerska tal till arabiska",
+        "numberToRoman": "Arabiska tal till romerska"
+
+    },
+    "subscribe": {
+        "title": "Prenumerera",
+        "mainText": "Vänligen prenumerera på vårt nyhetsbrev",
+        "firstName": "Förnamn",
+        "firstNameError": "Vänligen skriv 16 tecken eller färre",
+        "firstNameRequired": "Vänligen skriv ditt förnamn",
+        "lastName": "Efternamn",
+        "lastNameError": "Vänligen skriv 16 tecken eller färre",
+        "lastNameRequired": "Vänligen skriv ditt efternamn",
+        "email": "Epost",
+        "emailError": "Ogiltig epost",
+        "emailRequired": "Vänligen skriv din epost",
+        "submit": "Skicka",
+        "thankYou": "Tack!"
+    }
+}

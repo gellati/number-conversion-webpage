@@ -1,0 +1,35 @@
+{
+    "skipToContent": "Skip to Content",
+    "frontPage": {
+        "title": "Frontpage",
+        "mainText": "Welcome to the page for number conversion"
+    },
+    "numberConverter" : {
+        "title": "Number conversion",
+        "inputTitle": "Give a number you want be converted",
+        "mainText": "Set conversion direction:",
+        "romanNumber": "Roman number, e.g. I, XX, DCCX...",
+        "integerNumber": "Integer number, e.g. 1, 20, 710...",
+        "submit": "Submit",
+        "numberError": "The field should have digits only",
+        "romanError": "Only the characters I,V,X,L,C,D and M are allowed",
+        "romanToNumber": "Roman to number",
+        "numberToRoman": "Number to roman"
+
+    },
+    "subscribe": {
+        "title": "Subscribe",
+        "mainText": "Please subscribe to our newsletter",
+        "firstName": "First name",
+        "firstNameError": "Please input 16 characters or less",
+        "firstNameRequired": "Please write your last name",
+        "lastName": "Last name",
+        "lastNameError": "Please input 16 characters or less",
+        "lastNameRequired": "Please write your last name",
+        "email": "Email",
+        "emailError": "Invalid email",
+        "emailRequired": "Please write your last name",
+        "submit": "Submit",
+        "thankYou": "Thank you!"
+    }
+}

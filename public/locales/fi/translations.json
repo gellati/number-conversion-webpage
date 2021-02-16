@@ -1,0 +1,35 @@
+{
+    "skipToContent": "Hyppää sisältöön",
+    "frontPage": {
+        "title": "Etusivu",
+        "mainText": "Tervetuloa numeroiden käännössivulle"
+    },
+    "numberConverter" : {
+        "title": "Numerokäännös",
+        "inputTitle": "Anna numero jonka haluat kääntää",
+        "mainText": "Aseta käännöksen suunta:",
+        "romanNumber": "Roomalaiset numerot, esim.. I, XX, DCCX...",
+        "integerNumber": "Arabialaiset numerot, esim. 1, 20, 710...",
+        "submit": "Lähetä",
+        "numberError": "Kentässä pitäisi olla ainoastaan lukuja",
+        "romanError": "Ainoastaan merkit I,V,X,L,C,D ja M ovat sallittuja",
+        "romanToNumber": "Roomalaisesta arabialaiseen",
+        "numberToRoman": "Arabialaisesta roomalaiseen"
+
+    },
+    "subscribe": {
+        "title": "Tilaa",
+        "mainText": "Ole hyvä ja tilaa uutiskirjeemme",
+        "firstName": "Etunimi",
+        "firstNameError": "Ole hyvä ja kirjoita 16 merkkiä tai vähemmän",
+        "firstNameRequired": "Ole hyvä ja kirjoita etunimesi",
+        "lastName": "Sukunimi",
+        "lastNameError": "Ole hyvä ja kirjoita 16 merkkiä tai vähemmän",
+        "lastNameRequired": "Ole hyvä ja kirjoita sukunimesi",
+        "email": "Sähköposti",
+        "emailError": "Epäkelpo sähköposti",
+        "emailRequired": "Ystävällisesti kirjoita sähköpostisi",
+        "submit": "Lähetä",
+        "thankYou": "Kiitos!"
+    }
+}
