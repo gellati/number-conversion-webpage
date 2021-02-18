@@ -96,18 +96,8 @@ const SubscribeForm:React.FunctionComponent = () => {
             validationSchema={validationSchema}
             enableReinitialize={true}
         >
-            {({ values, errors, touched }) => (
+            {({ errors, touched }) => (
                 <FormWrapper>
-                    <pre>
-                    values
-                        {JSON.stringify(values, null, 2)}
-                        <br />
-                    errors
-                        {JSON.stringify(errors, null, 2)}
-                        <br />
-                    touched
-                        {JSON.stringify(touched, null, 2)}
-                    </pre>
                     <InputSection>
                         <label htmlFor="firstName">{t('subscribe.firstName')}</label>
                         <Field id="firstName" name="firstName" placeholder="John" />

@@ -72,17 +72,6 @@ const NumberConverter:React.FunctionComponent = () => {
             >
                 {({ values, errors, touched }) => (
                     <FormWrapper>
-                        <pre>
-                        values
-                            {JSON.stringify(values, null, 2)}
-                            <br />
-                        errors
-                            {JSON.stringify(errors, null, 2)}
-                            <br />
-                        touched
-                            {JSON.stringify(touched, null, 2)}
-                        </pre>
-
                         {isRomanToNumberDirection === true
                             ?
                             <>
